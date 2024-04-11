@@ -6,3 +6,4 @@ answers, your rating will increase, reflecting your proficiency in word matching
 The program offers an engaging and interactive experience, challenging you to recall and associate words in different
 languages. With each correct match, you'll not only gain confidence in your language abilities but also see your
 rating climb higher.
+
